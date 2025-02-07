@@ -1,7 +1,7 @@
 ---
 
 ### 📌 **SmartLearn - Mobile Learning App**  
-A **Flutter-based** mobile app designed to provide an interactive learning experience for university students, and hobbyists.  
+A **Flutter-based** mobile app designed to provide an interactive learning experience for university students, working professionals, and hobbyists.  
 
 ---
 
